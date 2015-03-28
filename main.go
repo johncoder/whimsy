@@ -949,6 +949,7 @@ var (
 		"gong",
 		"good-bye",
 		"goose",
+		"gopher",
 		"gore-tex",
 		"gorilla",
 		"gosling",
